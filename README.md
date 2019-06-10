@@ -58,8 +58,6 @@ Written versions of content are under open development here:
   
 ## Links that are handy to us
 
-TODO: Turn on GitHub Page, make a shortlink
-
-  * GitHub repo: <FILL THIS IN>
-  * GitHub Pages site, served from that repo: <FILL THISIN>
+  * GitHub repo: <https://github.com/jennybc/raukr>
+  * GitHub Pages site, served from that repo: <https://jennybc.github.io/raukr/>
   * Easy-to-type rstd.io short link to that GitHub Pages site: [rstd.io/raukr](https://rstd.io/raukr)
