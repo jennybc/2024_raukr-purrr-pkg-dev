@@ -59,6 +59,25 @@ More of my purrr content:
 
 ## Git 2 of 2 (Thursday June 13)
 
+  * Introduce remotes and branches
+  * Useful Git workflows, esp. time travel
+  
+Slides
+
+  * [git-and-github-daily-workflows.pdf](https://jennybc.github.io/wtf-2019-rsc/git-and-github-daily-workflows.pdf) *version from rstudio::conf 2019, but close to what I will use*
+  
+Resources
+
+All link to Happy Git
+
+  * [Branches](https://happygitwithr.com/git-branches.html)
+  * [Remotes](https://happygitwithr.com/git-remotes.html)
+  * [Fork and clone](https://happygitwithr.com/fork-and-clone.html)
+  * LESJIJIEJL this is in intentional garbage for someone to possibly remove with a pull request (PR) during the session weiwojsliwjl83j
+  * [Get upstream changes for a fork](https://happygitwithr.com/upstream-changes.html)
+  * The [Daily Workflows](https://happygitwithr.com/workflows-intro.html) part
+  * [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html)  
+
 ## Where to find me online
 
   * Jenny Bryan [jennybryan.org](https://jennybryan.org) \| Github [jennybc](https://github.com/jennybc) \| Twitter [jennybryan](https://twitter.com/jennybryan)
