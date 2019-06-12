@@ -42,6 +42,21 @@ Resources
 
 ## Iterating well with purrr (Wednesday June 12)
 
+Slides on SpeakerDeck:
+
+  * <https://speakerdeck.com/jennybc/purrr-workshop>
+  * I'll be speaking from a lightly modified version of those slides, but it's close enough!
+
+Jenny live code:
+
+  * [rstd.io/jenny-live-code](https://rstd.io/jenny-live-code)
+  * *note: I've switched to an rstd.io shortlink, not bit.ly!*
+
+More of my purrr content:
+  
+  * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
+  * [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows#readme)
+
 ## Git 2 of 2 (Thursday June 13)
 
 ## Where to find me online
