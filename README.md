@@ -5,6 +5,10 @@ Agenda for Jenny Bryan's instruction at:
   * [RaukR: Advanced R for Bioinformatics Summer School](https://nbisweden.github.io/workshop-RaukR-1906/)
   * 2019 June 10 - 20, Visby, Sweden
 
+## Food tonight
+
+- https://www.surfersvisby.se/
+
 ## Pre-work
 
 Please do the requested Git/GitHub prep in advance, as per email! Go here:
