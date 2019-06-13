@@ -73,7 +73,6 @@ All link to Happy Git
   * [Branches](https://happygitwithr.com/git-branches.html)
   * [Remotes](https://happygitwithr.com/git-remotes.html)
   * [Fork and clone](https://happygitwithr.com/fork-and-clone.html)
-  * LESJIJIEJL this is in intentional garbage for someone to possibly remove with a pull request (PR) during the session weiwojsliwjl83j
   * [Get upstream changes for a fork](https://happygitwithr.com/upstream-changes.html)
   * The [Daily Workflows](https://happygitwithr.com/workflows-intro.html) part
   * [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html)  
