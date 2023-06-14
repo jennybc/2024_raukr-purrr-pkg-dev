@@ -18,10 +18,8 @@ Slides on SpeakerDeck:
 
 Jenny live code:
 
-  * [rstd.io/jenny-live-code](https://rstd.io/jenny-live-code) *This currently
-    holds code from a previous workshop, about a different topic, but I hope to
-    re-use this approach again for RaukR 2023.*
-  * *note: I've switched to an rstd.io shortlink, not bit.ly!*
+  * [rstd.io/jenny-live-code](https://rstd.io/jenny-live-code) *If the Computer
+    Gods smile upon us, my live code will be available to you in the browser.*
 
 More places to learn about purrr and and iteration:
 
