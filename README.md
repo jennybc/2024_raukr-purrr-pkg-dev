@@ -11,17 +11,16 @@ None!
 
 ## Iterating well with purrr (Thursday June 15)
 
-Slides on SpeakerDeck:
+Slides:
 
-  * <https://speakerdeck.com/jennybc/purrr-workshop>
-  * I'll be speaking from a modified version of those slides, but those are pretty close if you want to have a file open locally.
+  * [PDF](purrr-2023.pdf) here in this repo
 
 Jenny live code:
 
   * [rstd.io/jenny-live-code](https://rstd.io/jenny-live-code) *If the Computer
     Gods smile upon us, my live code will be available to you in the browser.*
 
-More places to learn about purrr and and iteration:
+More places to learn about purrr and iteration:
 
   * The [Iteration chapter](https://r4ds.hadley.nz/iteration.html) of R for Data
     Science 2e *this has the most "current" take on where purrr fits within the
@@ -30,6 +29,9 @@ More places to learn about purrr and and iteration:
     somewhat dated, but there is still valuable content here*
   * [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows#readme)  *caveat:
     this is somewhat dated, but there is still valuable content here*
+  * tidyr's [Rectangling vignette](https://tidyr.tidyverse.org/articles/rectangle.html)
+  * dplyr's [Row-wise operations vignette](https://dplyr.tidyverse.org/articles/rowwise.html)
+  * dplyr's [Column-wise operations vignette](https://dplyr.tidyverse.org/articles/colwise.html)
 
 ## Package development (Friday June 16)
 
@@ -41,6 +43,10 @@ More places to learn about purrr and and iteration:
 Slides
 
   * *link to come*
+  
+Where to learn more:
+
+* R Packages, 2nd edition: <https://r-pkgs.org/>
 
 ## Where to find me online
 
