@@ -42,7 +42,7 @@ More places to learn about purrr and iteration:
   
 Slides
 
-  * *link to come*
+  * [PDF](pkg-dev-2023.pdf) here in this repo
   
 Where to learn more:
 
