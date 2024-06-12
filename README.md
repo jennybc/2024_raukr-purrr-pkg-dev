@@ -29,6 +29,9 @@ More places to learn about purrr and iteration:
   * The [Iteration chapter](https://r4ds.hadley.nz/iteration) of R for Data
     Science 2e *this has the most "current" take on where purrr fits within the
     tidyverse, especially w.r.t. dplyr and tidyr*
+  * The [purrr 1.0.0 blog post](https://www.tidyverse.org/blog/2022/12/purrr-1-0-0/) (December 2022)
+  describes a major milestone for purrr, i.e. that its overall scope and API is
+  stable.
   * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/) *caveat: this is
     somewhat dated, but there is still valuable content here*
   * [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows#readme)  *caveat:
