@@ -13,7 +13,7 @@ None!
 
 Slides:
 
-  * [PDF](purrr-2023.pdf) here in this repo
+  * [PDF](purrr-2024.pdf) here in this repo
 
 Jenny live code:
 
