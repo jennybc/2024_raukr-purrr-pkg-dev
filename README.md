@@ -43,16 +43,24 @@ More places to learn about purrr and iteration:
 ## Package development (Friday June 14)
 
 * The Whole Game: creating a small package from scratch.
+
   - Based on this chapter of R Packages 2e: <https://r-pkgs.org/whole-game.html>   
 * The Package Within: how to extract a package from data analysis scripts
   - Based on this chapter of R Packages 2e: <https://r-pkgs.org/package-within.html>
+  
+* Website for package development workshop from posit::conf(2023); the "Modules" provide prompts for various activities:
+  
+  - <https://posit-conf-2023.github.io/pkg-dev/intro.html>
+  
+* libminer, the example package we will build:
+
+  - <https://github.com/ateucher/libminer>
   
 Slides
 
   * The Whole Game, in slide form, by Andy Teucher, prepared for posit::conf(2023):
 
     - <https://drive.google.com/file/d/1Zi0nx5eHSv9giTaHMxtME0YEIdr0UVO4/view?usp=sharing>
-
 
   * 2023 slides as [PDF](pkg-dev-2023.pdf) here in this repo
   
